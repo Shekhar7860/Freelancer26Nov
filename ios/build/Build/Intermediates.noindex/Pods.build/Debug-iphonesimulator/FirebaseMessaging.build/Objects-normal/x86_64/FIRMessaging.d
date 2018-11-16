@@ -1,0 +1,34 @@
+dependencies: \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessaging.m \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseMessaging/Firebase/Messaging/Public/FIRMessaging.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessaging_Private.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingAnalytics.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/Headers/Private/FirebaseAnalyticsInterop/FIRAnalyticsInterop.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingClient.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingConstants.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingContextManagerService.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDataMessageManager.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDefines.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingLogger.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMMessageCode.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingPubSub.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingReceiver.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRemoteNotificationsProxy.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRmqManager.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingSyncMessageManager.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingUtilities.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingVersionUtilities.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/Headers/Private/FirebaseCore/FIRAppInternal.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/Headers/Private/FirebaseCore/FIRErrors.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/Headers/Private/FirebaseCore/FIRErrorCode.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/Headers/Private/FirebaseCore/FIRComponent.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/Headers/Private/FirebaseCore/FIRComponentContainer.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/Headers/Private/FirebaseCore/FIRComponentType.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/Headers/Private/FirebaseCore/FIRComponentRegistrant.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/Headers/Private/FirebaseCore/FIRCoreConfigurable.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/Headers/Private/FirebaseCore/FIRDependency.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID/FirebaseInstanceID.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID/FIRInstanceID.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/Headers/Private/GoogleUtilities/GULReachabilityChecker.h \
+  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseMessaging/Firebase/Messaging/NSError+FIRMessaging.h

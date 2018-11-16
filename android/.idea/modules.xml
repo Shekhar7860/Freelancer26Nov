@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/freelancetest.iml" filepath="$PROJECT_DIR$/freelancetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-device-info-2/android/react-native-device-info-2.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-device-info-2/android/react-native-device-info-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-document-picker/android/react-native-document-picker.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-document-picker/android/react-native-document-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-firebase/android/react-native-firebase.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-firebase/android/react-native-firebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-image-picker/android/react-native-image-picker.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-image-picker/android/react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-localization/android/react-native-localization.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-localization/android/react-native-localization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-reachability/android/react-native-reachability.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-reachability/android/react-native-reachability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/react-native-splash-screen.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>freelancetest.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A85412BB5CC6596C0B413EFDEDA0A555EE087D88</string>
+				<key>dateExpires</key>
+				<string>28/09/19</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>T32RA6FL5Q.com.Sizzerz</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>T32RA6FL5Q</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>T32RA6FL5Q.com.Sizzerz</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>freelancetest.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f7a9f6b3-6f65-40af-ba7d-b6116a93e870</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.Sizzerz</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>T32RA6FL5Q</string>
+				<key>name</key>
+				<string>Vinod Mahajan</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
