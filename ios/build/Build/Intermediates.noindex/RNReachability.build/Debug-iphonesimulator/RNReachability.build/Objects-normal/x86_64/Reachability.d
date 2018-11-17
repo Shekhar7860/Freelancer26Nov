@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/Data/Projects/AkashFreelancer/node_modules/react-native-reachability/ios/Reachability.m \
-  /Volumes/Data/Projects/AkashFreelancer/node_modules/react-native-reachability/ios/Reachability.h
+  /Volumes/Data/Projects/freelancernew/node_modules/react-native-reachability/ios/Reachability.m \
+  /Volumes/Data/Projects/freelancernew/node_modules/react-native-reachability/ios/Reachability.h

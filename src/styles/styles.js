@@ -1769,7 +1769,48 @@ createmilestoneinput: {
           marginRight: 5,
           fontSize: 15,
           width:'85%'
-        }
+        },
+        bottomViewHire:{
+          width: '95%', 
+          height: 50, 
+          backgroundColor:'#FF8D47', 
+          justifyContent: 'center', 
+          alignItems: 'center',
+          position: 'absolute'
+        },
+        bottomViewChat:{
+          width: '95%', 
+          height: 50, 
+          backgroundColor:'#F0F0F0',
+          justifyContent: 'center', 
+          alignItems: 'center',
+          position: 'absolute',
+          marginTop :-40
+        },
+        textStyleChat:{
+          color: colors.theme_orange,
+          fontSize:22,
+          alignItems:'center'
+          },
+          //payment
+          textWrapPayment:{
+            margin:10,
+            fontSize:18,
+           color:'red',
+           textTransform: 'capitalize'
+          },
+          textWrap2Payment:{
+            margin :10,
+            fontSize:15,
+            color:'red',
+           textTransform: 'capitalize'
+          },
+          detailsPaymentContainer :{
+            margin:10,
+            backgroundColor:colors.theme_light_white,
+            width:'95%',
+            height:300
+          }
   
       
           

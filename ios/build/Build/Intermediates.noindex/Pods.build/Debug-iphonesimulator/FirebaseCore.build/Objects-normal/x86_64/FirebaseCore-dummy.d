@@ -1,2 +1,2 @@
 dependencies: \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-dummy.m
+  /Volumes/Data/Projects/freelancernew/ios/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-dummy.m

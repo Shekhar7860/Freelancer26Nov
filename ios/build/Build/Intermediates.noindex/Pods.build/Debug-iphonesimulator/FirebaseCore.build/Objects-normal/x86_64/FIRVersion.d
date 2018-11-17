@@ -1,2 +1,2 @@
 dependencies: \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseCore/Firebase/Core/FIRVersion.m
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseCore/Firebase/Core/FIRVersion.m

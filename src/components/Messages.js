@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Platform, StyleSheet, SafeAreaView, ImageBackground, FlatList, TouchableHighlight, Text, TextInput, View, Image, Button, TouchableOpacity,Dimensions} from 'react-native';
+import {Platform, StyleSheet, SafeAreaView, ImageBackground, Alert, FlatList, TouchableHighlight, Text, TextInput, View, Image, Button, TouchableOpacity,Dimensions} from 'react-native';
 import Constants from '../constants/Constants';
 import Service from '../services/Service';
 import MyView from './MyView';
@@ -25,24 +25,53 @@ export default class Messages extends Component {
         name: '',
         error: false,
         items: [],
-        message : " "
+        message : " ",
+        userResponse: {},
+        senderId : "",
+        receiverId: "",
+        noMessage : " "
       };
       this.handleChange = this.handleChange.bind(this);
       this.handleSubmit = this.handleSubmit.bind(this);
    
  }
  componentDidMount() {
-  this.setState ({ loading: true});
-  setTimeout(() => {
+    if(this.props.navigation.state.params)
+    {
+     console.log(this.props.navigation.state.params)
+     this.setState({ receiverId: this.props.navigation.state.params.chatDetails.id});
+     }    
+     service.getUserData('user').then((keyValue) => {
+  //    console.log("local", keyValue);
+      var parsedData = JSON.parse(keyValue);
+      console.log("json", parsedData);
+      this.setState({ userResponse: parsedData});
+      this.setState({ senderId: parsedData.id});
+   }, (error) => {
+      console.log(error) //Display error
+    });
+    this.setState ({ loading: true});
+    setTimeout(() => {
     this.setState ({ loading: false});
-    
-    this.setState ({ dummyText: strings.NomessagesFound });
+    this.getFirebaseChat();
+    this.setState ({  noMessage: strings.NomessagesFound });
     }, 2000)
+ 
+ 
+ }
 
-    itemsRef.on('value', (snapshot) => {
+ getFirebaseChat = () => {
+  // console.log("senderId", this.state.senderId)
+  // console.log("receiverId", this.state.receiverId)
+  // console.log("userResponse", this.state.userResponse)
+     itemsRef.child(this.state.senderId).child(this.state.receiverId).on('value', (snapshot) => {
+      if(snapshot.val() !== null)
+      {
       let data = snapshot.val();
       let items = Object.values(data);
+      console.log(items);
       this.setState({items});
+      }
    });
  }
  openDrawer = () => {
@@ -58,8 +87,12 @@ export default class Messages extends Component {
           });
         }
         handleSubmit() {
-          addItem(this.state.name);
-          AlertIOS.alert(
+          itemsRef.child(this.state.senderId).child(this.state.receiverId).push({
+            name: this.state.name,
+            id :5
+        });
+        //  addItem(this.state.name, this.state.senderId, this.state.receiverId);
+          Alert.alert(
             'Message Send successfully'
            );
            this.setState({
@@ -109,10 +142,11 @@ export default class Messages extends Component {
           }
           keyExtractor={item => item.email}
         />
-      : <Text style={styles.centerText}>No Messages</Text>
+      : <Text style={styles.centerText}>{this.state.noMessage}</Text>
                 }
-                <View style={styles.main}>
+               
                 <Text style={styles.title}></Text>
+                <View style={{position:"absolute", bottom:20, width:'100%'}}>
                 <View style={{flexDirection:'row',  borderWidth: 1, width:'90%', marginLeft:10,  borderRadius:10}}>
 
                 <TextInput
@@ -135,7 +169,8 @@ export default class Messages extends Component {
                     />
                     </TouchableHighlight>
                     </View>
-                </View>
+                    </View>
+               
     
      <Loader
               loading={this.state.loading} />

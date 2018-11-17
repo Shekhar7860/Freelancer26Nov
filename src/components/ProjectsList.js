@@ -253,8 +253,8 @@ export default class ProjectsList extends Component {
             />
           </TouchableOpacity> */}
         
-        <Loader
-              loading={this.state.loading} />
+        {/* <Loader
+              loading={this.state.loading} /> */}
                     
       </SafeAreaView>
     );

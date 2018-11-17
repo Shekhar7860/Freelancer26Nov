@@ -1,19 +1,19 @@
 dependencies: \
-  /Volumes/Data/Projects/AkashFreelancer/node_modules/react-native-firebase/ios/RNFirebase/notifications/RNFirebaseNotifications.m \
-  /Volumes/Data/Projects/AkashFreelancer/node_modules/react-native-firebase/ios/RNFirebase/notifications/RNFirebaseNotifications.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Volumes/Data/Projects/AkashFreelancer/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseEvents.h \
-  /Volumes/Data/Projects/AkashFreelancer/node_modules/react-native-firebase/ios/RNFirebase/messaging/RNFirebaseMessaging.h \
+  /Volumes/Data/Projects/freelancernew/node_modules/react-native-firebase/ios/RNFirebase/notifications/RNFirebaseNotifications.m \
+  /Volumes/Data/Projects/freelancernew/node_modules/react-native-firebase/ios/RNFirebase/notifications/RNFirebaseNotifications.h \
+  /Volumes/Data/Projects/freelancernew/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/Data/Projects/freelancernew/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/Data/Projects/freelancernew/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Volumes/Data/Projects/freelancernew/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/Data/Projects/freelancernew/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/Data/Projects/freelancernew/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/Data/Projects/freelancernew/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/Data/Projects/freelancernew/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Volumes/Data/Projects/freelancernew/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseEvents.h \
+  /Volumes/Data/Projects/freelancernew/node_modules/react-native-firebase/ios/RNFirebase/messaging/RNFirebaseMessaging.h \
   ../../../ios/Pods/Headers/Public/FirebaseMessaging/FirebaseMessaging.h \
   ../../../ios/Pods/Headers/Public/FirebaseMessaging/FIRMessaging.h \
-  /Volumes/Data/Projects/AkashFreelancer/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseUtil.h \
+  /Volumes/Data/Projects/freelancernew/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseUtil.h \
   ../../../ios/Pods/Headers/Public/Firebase/Firebase.h \
   ../../../ios/Pods/Headers/Public/FirebaseCore/FirebaseCore.h \
   ../../../ios/Pods/Headers/Public/FirebaseCore/FIRAnalyticsConfiguration.h \
@@ -29,5 +29,5 @@ dependencies: \
   ../../../ios/Pods/Headers/Public/FirebaseAnalytics/FirebaseAnalytics/FIRUserPropertyNames.h \
   ../../../ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID/FirebaseInstanceID.h \
   ../../../ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID/FIRInstanceID.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h
+  /Volumes/Data/Projects/freelancernew/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Volumes/Data/Projects/freelancernew/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h

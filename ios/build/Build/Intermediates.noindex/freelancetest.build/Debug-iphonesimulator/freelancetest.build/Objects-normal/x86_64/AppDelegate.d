@@ -1,27 +1,27 @@
 dependencies: \
-  /Volumes/Data/Projects/AkashFreelancer/ios/freelancetest/AppDelegate.m \
-  /Volumes/Data/Projects/AkashFreelancer/ios/freelancetest/AppDelegate.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/Firebase/CoreOnly/Sources/module.modulemap \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/Firebase/CoreOnly/Sources/Firebase.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBundleURLProvider.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/../node_modules/react-native-splash-screen/ios/SplashScreen.h \
+  /Volumes/Data/Projects/freelancernew/ios/freelancetest/AppDelegate.m \
+  /Volumes/Data/Projects/freelancernew/ios/freelancetest/AppDelegate.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/Firebase/CoreOnly/Sources/module.modulemap \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/Firebase/CoreOnly/Sources/Firebase.h \
+  /Volumes/Data/Projects/freelancernew/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBundleURLProvider.h \
+  /Volumes/Data/Projects/freelancernew/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Volumes/Data/Projects/freelancernew/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/Data/Projects/freelancernew/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/Data/Projects/freelancernew/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/Data/Projects/freelancernew/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/Data/Projects/freelancernew/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/Data/Projects/freelancernew/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/Data/Projects/freelancernew/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Volumes/Data/Projects/freelancernew/ios/../node_modules/react-native-splash-screen/ios/SplashScreen.h \
   ../node_modules/react-native-firebase/ios/RNFirebase/notifications/RNFirebaseNotifications.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h
+  /Volumes/Data/Projects/freelancernew/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h

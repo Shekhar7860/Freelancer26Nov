@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/Target\ Support\ Files/Pods-freelancetestTests/Pods-freelancetestTests-dummy.m \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/Firebase/CoreOnly/Sources/module.modulemap
+  /Volumes/Data/Projects/freelancernew/ios/Pods/Target\ Support\ Files/Pods-freelancetestTests/Pods-freelancetestTests-dummy.m \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/Firebase/CoreOnly/Sources/module.modulemap

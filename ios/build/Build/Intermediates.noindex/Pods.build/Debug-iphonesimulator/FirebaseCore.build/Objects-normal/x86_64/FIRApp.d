@@ -1,19 +1,19 @@
 dependencies: \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseCore/Firebase/Core/FIRApp.m \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseCore/Firebase/Core/Public/FIRApp.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseCore/Firebase/Core/Public/FIRConfiguration.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseCore/Firebase/Core/Public/FIRAnalyticsConfiguration.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseCore/Firebase/Core/Public/FIRLoggerLevel.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRAnalyticsConfiguration+Internal.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRAppInternal.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRErrors.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRErrorCode.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRBundleUtil.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRComponentContainerInternal.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRComponent.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRComponentContainer.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRComponentType.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRCoreConfigurable.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRLogger.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseCore/Firebase/Core/Private/FIROptionsInternal.h \
-  /Volumes/Data/Projects/AkashFreelancer/ios/Pods/FirebaseCore/Firebase/Core/Public/FIROptions.h
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseCore/Firebase/Core/FIRApp.m \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseCore/Firebase/Core/Public/FIRApp.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseCore/Firebase/Core/Public/FIRConfiguration.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseCore/Firebase/Core/Public/FIRAnalyticsConfiguration.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseCore/Firebase/Core/Public/FIRLoggerLevel.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRAnalyticsConfiguration+Internal.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRAppInternal.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRErrors.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRErrorCode.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRBundleUtil.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRComponentContainerInternal.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRComponent.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRComponentContainer.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRComponentType.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRCoreConfigurable.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRLogger.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseCore/Firebase/Core/Private/FIROptionsInternal.h \
+  /Volumes/Data/Projects/freelancernew/ios/Pods/FirebaseCore/Firebase/Core/Public/FIROptions.h

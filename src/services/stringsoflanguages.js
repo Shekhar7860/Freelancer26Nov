@@ -147,7 +147,8 @@ ExitApp:"Exit App",
 DoyouwanttoExittheapplication: "Do you want to Exit the application?",
 Cancel : "CANCEL",
 Submit : "SUBMIT",
-Writeareview : "Write a review....."
+Writeareview : "Write a review.....",
+ChatwithFreelancer : "Chat With Freelancer"
   },
 
 
@@ -297,7 +298,8 @@ NomessagesFound: "لا توجد رسائل",
 Invalidenddate : "تاريخ غير صالح",
 Cancel : "إلغاء",
 Submit : "خضع",
-Writeareview : "أكتب مراجعة"
+Writeareview : "أكتب مراجعة",
+ChatwithFreelancer : "الدردشة مع المستقل"
 
 
 

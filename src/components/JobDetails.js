@@ -19,7 +19,8 @@ export default class JobDetails extends Component {
         details : {},
         loading:false,
         hireText : "Find Freelancer",
-        hired : false
+        hired : false,
+        chat : true
       }
   }
 
@@ -39,13 +40,14 @@ export default class JobDetails extends Component {
     {
       if(this.props.navigation.state.params.details.details.request_status == "Accepted")
       {
+        this.setState({ chat : false})
         this.setState({ hireText: strings.Hirefreelancer})
       }
       else if(this.props.navigation.state.params.details.details.request_status == "Hired")
       {
         this.setState({ hireText: "Go To Projects"})
       }
-    this.setState({ details: this.props.navigation.state.params.details.details})
+      this.setState({ details: this.props.navigation.state.params.details.details})
      }    
       }, 1000)
     
@@ -92,6 +94,10 @@ export default class JobDetails extends Component {
     }
    }
 
+   openChat = () => {
+    this.props.navigation.navigate('Messages', { chatDetails: this.state.details})
+   }
+
    goToJobs = () => {
     this.props.navigation.navigate('Jobs');
    }
@@ -107,14 +113,10 @@ export default class JobDetails extends Component {
 
     if (textString == "Go To Projects") {
       return strings.GoToProjects;
-    }else if (textString == "Find Freelancer") {
-      
+    }else if (textString == "Find Freelancer") { 
       return strings.FindFreelancer;
-
     }else{
-      
       return strings.HireFreelancer;
-
     }
   }
   render() {
@@ -243,11 +245,17 @@ export default class JobDetails extends Component {
          </View>
          <Loader
               loading={this.state.loading} /> 
+             
      </ScrollView>
      
      <MyView style = { styles.MainContainer } hide={this.state.hired}>
-      <TouchableOpacity style={styles.bottomViewDetails} onPress={() => this.goToFreelancerPage(this.state.hireText)}>
+      <TouchableOpacity style={styles.bottomViewHire} onPress={() => this.goToFreelancerPage(this.state.hireText)}>
          <Text style={styles.textStyle}>{this.changeTextToArabic(this.state.hireText)}</Text>
+      </TouchableOpacity>
+      </MyView>
+      <MyView style = { styles.MainContainer } hide={this.state.chat}>
+      <TouchableOpacity style={styles.bottomViewChat} onPress={() => this.openChat()}>
+         <Text style={styles.textStyleChat}>{strings.ChatwithFreelancer}</Text>
       </TouchableOpacity>
       </MyView>
       
